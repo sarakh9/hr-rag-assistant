@@ -33,22 +33,24 @@ class Ingestor:
         self.collection = self.chroma_client.get_or_create_collection(name = self.collection_name,
             embedding_function = self.embedding_func)
 
-    def insert_knowledge(self, content: str, metadata: dict) -> None:
+    def _insert_knowledge(self, content: str, metadata: dict, indexed_count: int) -> None:
         self.collection.add(
-            ids=[str(metadata["chunk_id"])],
+            ids=[str(indexed_count)],
             documents=[content],
             metadatas=[metadata]
         )
 
     def run_ingestor(self) -> None:
         md_files = list(self.source_dir.rglob("**/*.md"))
+        indexed_count = 0
         for md_file in tqdm(md_files):
             json_file = md_file.with_suffix(".json")
             if not json_file.exists():
                 continue
             content = md_file.read_text()
             metadata = json.loads(json_file.read_text())
-            self.insert_knowledge(content, metadata)
+            self._insert_knowledge(content, metadata, indexed_count)
+            indexed_count += 1
 
 
 if __name__ == "__main__":

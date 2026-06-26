@@ -1,5 +1,5 @@
 test.ipynb
 no_colab_test.ipynb
 venv
-config
+.env
 chroma_db

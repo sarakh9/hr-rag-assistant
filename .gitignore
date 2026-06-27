@@ -4,3 +4,4 @@ venv
 .env
 chroma_db
 data-preprocessing.ipynb
+__pycache__

@@ -10,12 +10,11 @@ from google.genai.types import GenerateContentConfig, ModelContent, Part, UserCo
 from pydantic import BaseModel
 from tenacity import before_sleep_log, retry, stop_after_attempt, wait_exponential
 
-from assistant_config import load_assistant_config
-from knowledgebase import ChromaDBKnowledgeBase, HRSearchResult
+from .assistant_config import load_assistant_config
+from .knowledgebase import ChromaDBKnowledgeBase, HRSearchResult
 
-print("first execution of assistant.py")
 logger = logging.getLogger(__name__)
-# print("logger name:", logger.name)
+
 
 # https://ai.google.dev/gemini-api/docs/rate-limits
 VALID_LLM_MODELS = [

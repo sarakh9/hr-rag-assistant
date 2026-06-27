@@ -125,7 +125,7 @@ Question: How often are overtime trends reviewed by management and HR?
 Answer: Overtime trends are reviewed periodically by management and HR, though the exact frequency may depend on company procedures and needs.
 --------------------------------------------------
 Question: Can you explain the approval process for compensatory off in our company?
-Answer: Certainly! To apply for compensatory off, employees should first send an email to their reporting manager with a detailed description of the task for which the compensatory off is being requested. The employee is responsible for ensuring that the manager approves the request. Additionally, HR should be kept in CC on the email for record-keeping purposes. After receiving approval, the employee must apply for the compensatory off through the company’s leave management system, and the leave must be approved in the system before it can be availed.
+Answer: Certainly! To apply for compensatory off, employees should first send an email to their reporting manager with a detailed description of the task for which the compensatory off is being requested. The employee is responsible for ensuring that the manager approves the request. Additionally, HR should be kept in CC on the email for record-keeping purposes. After receiving approval, the employee must apply for the compensatory off through the companyï¿½s leave management system, and the leave must be approved in the system before it can be availed.
 --------------------------------------------------
 Question: Who should be included in the email when requesting compensatory off approval?
 Answer: When requesting compensatory off approval, the email should be sent to your reporting manager, and HR should be included in CC for record-keeping purposes.
@@ -134,7 +134,7 @@ Question: What details should I include in my email to the manager when applying
 Answer: Your email to the manager should include a detailed description of the task for which you are requesting compensatory off. This helps the manager understand the context and make an informed decision regarding approval.
 --------------------------------------------------
 Question: Is it enough to just get my manager's approval via email for compensatory off?
-Answer: No, it is not enough to only get your manager's approval via email. After receiving approval, you must also apply for the compensatory off through the company’s leave management system, and the leave must be approved in the system before you can avail it.
+Answer: No, it is not enough to only get your manager's approval via email. After receiving approval, you must also apply for the compensatory off through the companyï¿½s leave management system, and the leave must be approved in the system before you can avail it.
 --------------------------------------------------
 Question: Why should HR be kept in CC when requesting compensatory off?
 Answer: HR should be kept in CC when requesting compensatory off to ensure proper record-keeping and compliance with company policies. This helps maintain transparency and allows HR to track leave requests efficiently.
@@ -143,7 +143,7 @@ Question: What happens if I forget to apply for compensatory off in the leave ma
 Answer: If you forget to apply for compensatory off in the leave management system after getting email approval, your leave will not be officially recorded or approved. It is essential to complete the process in the leave management system to ensure your compensatory off is recognized and can be availed.
 --------------------------------------------------
 Question: Can I avail compensatory off before it is approved in the leave management system?
-Answer: No, you must wait for your compensatory off to be approved in the company’s leave management system before availing it. This ensures that your leave is properly documented and authorized.
+Answer: No, you must wait for your compensatory off to be approved in the companyï¿½s leave management system before availing it. This ensures that your leave is properly documented and authorized.
 --------------------------------------------------
 Question: What is Kreeda Labs' stance on work-life balance for its employees?
 Answer: Kreeda Labs places a strong emphasis on work-life balance and encourages employees to manage their tasks efficiently within regular working hours. The company aims to ensure that employees are not overburdened and that any additional work is acknowledged and compensated fairly, all while maintaining overall operational productivity.
@@ -376,8 +376,8 @@ Answer: Ethical business practices benefit Kreeda Labs' stakeholders by fosterin
 Question: What are the key values highlighted in Kreeda Labs' approach to business conduct?
 Answer: The key values highlighted in Kreeda Labs' approach to business conduct are ethical business practices, transparency, accountability, responsibility, compliance, and inclusivity. These values guide the company's interactions and decision-making processes.
 --------------------------------------------------
-Question: What does 'Drafted by: Reviewed & Approved by: Mrs. Anishri Masal – Gholap Mr. Saurabh Bhansali Sr. HR Executive Founder & CEO' mean in a document?
-Answer: This phrase indicates the roles and individuals involved in the creation and approval of a document. 'Drafted by' refers to the person who prepared the initial version, in this case, Mrs. Anishri Masal – Gholap, who is the Sr. HR Executive. 'Reviewed & Approved by' refers to the person who checked and authorized the document, here Mr. Saurabh Bhansali, who is the Founder & CEO.
+Question: What does 'Drafted by: Reviewed & Approved by: Mrs. Anishri Masal ï¿½ Gholap Mr. Saurabh Bhansali Sr. HR Executive Founder & CEO' mean in a document?
+Answer: This phrase indicates the roles and individuals involved in the creation and approval of a document. 'Drafted by' refers to the person who prepared the initial version, in this case, Mrs. Anishri Masal ï¿½ Gholap, who is the Sr. HR Executive. 'Reviewed & Approved by' refers to the person who checked and authorized the document, here Mr. Saurabh Bhansali, who is the Founder & CEO.
 --------------------------------------------------
 Question: Why is it important to mention 'Drafted by' and 'Reviewed & Approved by' in official documents?
 Answer: Mentioning 'Drafted by' and 'Reviewed & Approved by' in official documents is important for accountability and transparency. It clearly identifies who prepared the document and who has verified and authorized its contents, ensuring responsibility and traceability in case of future queries or audits.
@@ -398,7 +398,7 @@ Question: What is the difference between 'drafted by' and 'approved by' in docum
 Answer: In document workflows, 'drafted by' refers to the individual who creates the initial version of the document, handling research, writing, and formatting. 'Approved by' refers to the person who reviews the draft, checks for accuracy, compliance, and alignment with organizational standards, and then authorizes the document for official use.
 --------------------------------------------------
 Question: What is the process for applying for compensatory off in our company?
-Answer: To apply for compensatory off, you must submit your request within 7 days of performing the extra work. This should be done using the company’s leave management system. The request will then be reviewed and is subject to approval by your reporting manager, based on business requirements and staffing needs.
+Answer: To apply for compensatory off, you must submit your request within 7 days of performing the extra work. This should be done using the companyï¿½s leave management system. The request will then be reviewed and is subject to approval by your reporting manager, based on business requirements and staffing needs.
 --------------------------------------------------
 Question: How long do I have to use my compensatory off once it is granted?
 Answer: Once compensatory off is granted, you must avail it within 30 days from the date of approval. If you do not use it within this period, the compensatory off will lapse unless you have received special approval from management.
@@ -733,8 +733,8 @@ Answer: The whistleblower policy at Kreeda Labs is reviewed annually. Updates ar
 Question: Who should I contact if I have questions about the whistleblower policy at Kreeda Labs?
 Answer: If you have any questions regarding the whistleblower policy at Kreeda Labs, you should contact the HR Team for assistance and clarification.
 --------------------------------------------------
-Question: What does 'Drafted by: Approved by: Mrs. Anishri Masal – Gholap Mr. Saurabh Bhansali Sr. HR Executive Founder & CEO' mean on a document?
-Answer: This line indicates the individuals responsible for preparing and approving the document. 'Drafted by' refers to Mrs. Anishri Masal – Gholap, who is the Senior HR Executive and the person who created the document. 'Approved by' refers to Mr. Saurabh Bhansali, who is the Founder & CEO and has given final approval for the document's content.
+Question: What does 'Drafted by: Approved by: Mrs. Anishri Masal ï¿½ Gholap Mr. Saurabh Bhansali Sr. HR Executive Founder & CEO' mean on a document?
+Answer: This line indicates the individuals responsible for preparing and approving the document. 'Drafted by' refers to Mrs. Anishri Masal ï¿½ Gholap, who is the Senior HR Executive and the person who created the document. 'Approved by' refers to Mr. Saurabh Bhansali, who is the Founder & CEO and has given final approval for the document's content.
 --------------------------------------------------
 Question: Why is it important to mention 'Drafted by' and 'Approved by' on official documents?
 Answer: Mentioning 'Drafted by' and 'Approved by' on official documents is important for accountability and transparency. It clearly identifies who prepared the document and who authorized its contents, which helps in tracking responsibility and ensuring the document's authenticity.
@@ -775,14 +775,14 @@ Answer: If an employee receives entertainment from a vendor and is unsure about 
 Question: What steps should be taken if an employee witnesses a colleague violating the gift and entertainment policy?
 Answer: If an employee witnesses a colleague violating the gift and entertainment policy, they should report the incident to HR or the Compliance Team, as the company encourages reporting without fear of retaliation.
 --------------------------------------------------
-Question: What does 'Drafted by: Reviewed & Approved by: Mrs. Anishri Masal – Gholap Mr. Saurabh Bhansali Sr. HR Executive Founder & CEO' mean in a document?
-Answer: This phrase indicates the individuals responsible for preparing and approving the document. 'Drafted by' refers to the person who created the initial version, in this case, Mrs. Anishri Masal – Gholap, who is the Sr. HR Executive. 'Reviewed & Approved by' refers to the person who checked and authorized the document, here Mr. Saurabh Bhansali, who is the Founder & CEO.
+Question: What does 'Drafted by: Reviewed & Approved by: Mrs. Anishri Masal ï¿½ Gholap Mr. Saurabh Bhansali Sr. HR Executive Founder & CEO' mean in a document?
+Answer: This phrase indicates the individuals responsible for preparing and approving the document. 'Drafted by' refers to the person who created the initial version, in this case, Mrs. Anishri Masal ï¿½ Gholap, who is the Sr. HR Executive. 'Reviewed & Approved by' refers to the person who checked and authorized the document, here Mr. Saurabh Bhansali, who is the Founder & CEO.
 --------------------------------------------------
 Question: Why is it important to include 'Drafted by' and 'Reviewed & Approved by' in official documents?
 Answer: Including 'Drafted by' and 'Reviewed & Approved by' in official documents ensures accountability and transparency. It clearly identifies who prepared the document and who has verified and authorized its contents, which helps in tracking responsibility and maintaining quality control.
 --------------------------------------------------
-Question: What roles do Mrs. Anishri Masal – Gholap and Mr. Saurabh Bhansali play in the approval process?
-Answer: Mrs. Anishri Masal – Gholap, as Sr. HR Executive, is responsible for drafting the document, ensuring it meets the necessary requirements. Mr. Saurabh Bhansali, as Founder & CEO, reviews the document for accuracy and compliance before giving final approval.
+Question: What roles do Mrs. Anishri Masal ï¿½ Gholap and Mr. Saurabh Bhansali play in the approval process?
+Answer: Mrs. Anishri Masal ï¿½ Gholap, as Sr. HR Executive, is responsible for drafting the document, ensuring it meets the necessary requirements. Mr. Saurabh Bhansali, as Founder & CEO, reviews the document for accuracy and compliance before giving final approval.
 --------------------------------------------------
 Question: Is it common for the CEO to review and approve HR documents?
 Answer: While it is not always common for the CEO to review every HR document, in smaller organizations or for important policies, the CEO may be directly involved in the approval process to ensure alignment with company values and objectives.
@@ -1094,10 +1094,10 @@ Question: What is the process for informing about planned and unplanned leaves i
 Answer: For planned leaves, you must inform the 'Leave Plans' channel at least a week in advance and obtain approval from your manager to ensure proper workload distribution. For unplanned sick leave, update the 'Leave Plans' channel between 9:30 to 10 AM or before your scrum, whichever is earlier.
 --------------------------------------------------
 Question: How should I communicate if I need to take a short break or will be away from my desk for a while during the workday?
-Answer: If you need to take a short-term break, such as a 1–2-hour absence, a late start, or if you will be away from your keyboard for some time, you should update the 'Office Availability' channel. Additionally, update your status on MS Teams to reflect your availability, such as 'Be Right Back' for short breaks or 'Away with a status message' during lunch.
+Answer: If you need to take a short-term break, such as a 1ï¿½2-hour absence, a late start, or if you will be away from your keyboard for some time, you should update the 'Office Availability' channel. Additionally, update your status on MS Teams to reflect your availability, such as 'Be Right Back' for short breaks or 'Away with a status message' during lunch.
 --------------------------------------------------
 Question: What are the expectations regarding daily scrum meetings and status updates on MS Teams?
-Answer: Attendance at daily scrum meetings is compulsory. If you are unable to attend, you must inform the project manager in advance. On MS Teams, set your status to 'Available' when working, 'Be Right Back' for short breaks (10–15 minutes), 'Away with a status message' during lunch, and 'Offline with a status message' if logging out for the day or on leave.
+Answer: Attendance at daily scrum meetings is compulsory. If you are unable to attend, you must inform the project manager in advance. On MS Teams, set your status to 'Available' when working, 'Be Right Back' for short breaks (10ï¿½15 minutes), 'Away with a status message' during lunch, and 'Offline with a status message' if logging out for the day or on leave.
 --------------------------------------------------
 Question: If I am taking leave for more than two days, is there anything specific I need to do?
 Answer: Yes, if you are taking leave for two or more days, you should schedule an out-of-office message, such as 'Unavailable as I will be traveling,' to inform your colleagues of your extended absence.
@@ -1342,8 +1342,8 @@ Answer: To provide feedback about the policy, you should contact the HR Departme
 Question: What happens after I report a complaint to HR regarding the policy?
 Answer: After you report a complaint to HR regarding the policy, the HR Department will review your concern, investigate as necessary, and take appropriate action in line with organizational procedures.
 --------------------------------------------------
-Question: What does 'Drafted by: Reviewed & Approved by: Mrs. Anishri Masal – Gholap Mr. Saurabh Bhansali Sr. HR Executive Founder & CEO 20th March 2025 30th March 2025' mean in a document?
-Answer: This section of a document indicates the individuals responsible for drafting and approving the document. 'Drafted by' refers to Mrs. Anishri Masal – Gholap, who is the Senior HR Executive and prepared the document on 20th March 2025. 'Reviewed & Approved by' refers to Mr. Saurabh Bhansali, the Founder & CEO, who reviewed and approved the document on 30th March 2025. These details provide accountability and traceability for the document's creation and approval process.
+Question: What does 'Drafted by: Reviewed & Approved by: Mrs. Anishri Masal ï¿½ Gholap Mr. Saurabh Bhansali Sr. HR Executive Founder & CEO 20th March 2025 30th March 2025' mean in a document?
+Answer: This section of a document indicates the individuals responsible for drafting and approving the document. 'Drafted by' refers to Mrs. Anishri Masal ï¿½ Gholap, who is the Senior HR Executive and prepared the document on 20th March 2025. 'Reviewed & Approved by' refers to Mr. Saurabh Bhansali, the Founder & CEO, who reviewed and approved the document on 30th March 2025. These details provide accountability and traceability for the document's creation and approval process.
 --------------------------------------------------
 Question: Why are dates included next to the names in 'Drafted by' and 'Reviewed & Approved by' sections?
 Answer: Dates are included next to the names in these sections to record when the document was drafted and when it was reviewed and approved. This helps establish a clear timeline for the document's creation and approval, which is important for record-keeping, version control, and accountability.
@@ -1740,7 +1740,7 @@ Question: Can the details of a complaint be shared with anyone outside the proce
 Answer: No, the details of a complaint, including proceedings, records, and identities, cannot be shared with anyone outside the authorized personnel involved in the process. This is to ensure strict confidentiality.
 --------------------------------------------------
 Question: What disciplinary measures might be taken for breaching confidentiality?
-Answer: Disciplinary measures for breaching confidentiality can include warnings, suspension, termination of employment, or other actions as deemed appropriate by the organization’s policies.
+Answer: Disciplinary measures for breaching confidentiality can include warnings, suspension, termination of employment, or other actions as deemed appropriate by the organizationï¿½s policies.
 --------------------------------------------------
 Question: Is confidentiality guaranteed for everyone involved in a complaint?
 Answer: Yes, confidentiality is guaranteed for everyone involved in the complaint process. All proceedings, records, and identities are kept strictly confidential to protect all parties.
@@ -1872,13 +1872,13 @@ Question: Does this compliance policy apply to remote employees as well?
 Answer: Yes, the compliance policy applies to all employees, including those working remotely. Remote employees are still expected to follow all applicable laws, regulations, and company policies, regardless of their work location.
 --------------------------------------------------
 Question: What should employees do if they notice a violation of the company's Code of Conduct?
-Answer: Employees who become aware of any violations of the Code of Conduct are required to report them promptly. They can report such violations to their supervisor, the Human Resources department, or through the company’s designated reporting channels.
+Answer: Employees who become aware of any violations of the Code of Conduct are required to report them promptly. They can report such violations to their supervisor, the Human Resources department, or through the companyï¿½s designated reporting channels.
 --------------------------------------------------
 Question: Are reports of Code of Conduct violations kept confidential?
 Answer: Yes, all reports of Code of Conduct violations are investigated thoroughly and confidentially to protect the privacy of those involved.
 --------------------------------------------------
 Question: Who can employees contact to report a violation of the Code of Conduct?
-Answer: Employees can report violations to their supervisor, the Human Resources department, or use the company’s designated reporting channels.
+Answer: Employees can report violations to their supervisor, the Human Resources department, or use the companyï¿½s designated reporting channels.
 --------------------------------------------------
 Question: What happens after a Code of Conduct violation is reported?
 Answer: After a violation is reported, the company will conduct a thorough and confidential investigation to address the issue appropriately.
@@ -5334,7 +5334,7 @@ Question: How does the digital nature of online leave requests simplify record-k
 Answer: Online leave requests simplify record-keeping and auditing for HR by providing digital records within Self-Service Portals, ensuring accuracy and compliance with leave policies.
 --------------------------------------------------
 Question: What is Human Resource Management (HRM), and why is it essential for organizations
-Answer: Human Resource Management (HRM) is the strategic approach to managing an organization's most valuable asset—its people. It's essential because effective HRM ensures that an organization's workforce is aligned with its goals and contributes to its success.
+Answer: Human Resource Management (HRM) is the strategic approach to managing an organization's most valuable assetï¿½its people. It's essential because effective HRM ensures that an organization's workforce is aligned with its goals and contributes to its success.
 --------------------------------------------------
 Question: What are the primary functions of HR departments within organizations
 Answer: HR departments typically handle functions such as recruitment, employee onboarding, payroll, benefits administration, performance management, and compliance with employment laws.

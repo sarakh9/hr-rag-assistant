@@ -1,0 +1,49 @@
+{
+    "metadata": {
+        "model": "gemini-3.1-flash-lite",
+        "num_questions": 10,
+        "timestamp": "2026_06_28_17_02_15"
+    },
+    "qa_pairs": [
+        {
+            "question": "Which specific departments are responsible for calculating final settlements regarding corporate assets after an employee leaves?",
+            "ground_truth": "Human Resources and Finance are responsible for calculating appropriate final settlements following strict legal guidelines."
+        },
+        {
+            "question": "What are the specific responsibilities assigned to IT Provisioning, Human Resources, and Line Managers during the onboarding process?",
+            "ground_truth": "IT Provisioning is responsible for setting up hardware profiles; Human Resources coordinates systemic compliance orientations; and Line Managers deliver domain-specific workflow objectives."
+        },
+        {
+            "question": "Is the company permitted to automatically deduct the cost of a damaged laptop from an employee's final paycheck?",
+            "ground_truth": "No, the company cannot make automatic or unilateral deductions from a salary for damaged equipment without the employee's explicit written consent at the time of the event or a formal legal determination."
+        },
+        {
+            "question": "What is the official procedure for having a corporate data file reviewed?",
+            "ground_truth": "Submit a formal request to the designated Data Protection Officer (DPO) role."
+        },
+        {
+            "question": "What is the statutory premium rate for overtime work according to Article 59 of the Iran Labor Code?",
+            "ground_truth": "The statutory premium rate for overtime work is 40%, making the total compensation 140% of the standard regular hourly wage."
+        },
+        {
+            "question": "If an employee has a complex ethical concern that needs to be escalated, who are the appropriate points of contact?",
+            "ground_truth": "The employee should email the CEO at ceo@company.com or contact the Policy Compliance Committee (PCC)."
+        },
+        {
+            "question": "What are the common durations for a Performance Improvement Plan, and how frequently are formal performance reviews conducted?",
+            "ground_truth": "A Performance Improvement Plan typically lasts for 30, 60, or up to 90 calendar days depending on complexity, while formal performance review cycles occur bi-annually."
+        },
+        {
+            "question": "What is the consequence for an employee on their second occurrence of violating remote work guidelines?",
+            "ground_truth": "The second occurrence results in the temporary suspension of Work From Home privileges and a transition to mandatory office check-ins."
+        },
+        {
+            "question": "What is the mandatory statutory New Year gift entitlement for employees under the Iran Labor Code according to the company policy?",
+            "ground_truth": "Employees who have completed one full year of service are entitled to a mandatory New Year gift and annual bonus equivalent to two months' of their base salary."
+        },
+        {
+            "question": "What is the consequence of posting a photo of a development screen that displays corporate source code?",
+            "ground_truth": "It is a policy violation, as displaying corporate source code or internal strategy layouts is strictly prohibited."
+        }
+    ]
+}

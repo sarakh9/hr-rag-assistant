@@ -49,7 +49,7 @@ def load_banner():
 HR_icon = load_icon()
 HR_banner = load_banner()
 
-st.image(HR_banner)
+st.image(HR_banner, caption= "**Your HR assistan, always available**")
 
 if "conversation" not in st.session_state:
     st.session_state.conversation = []
@@ -61,8 +61,8 @@ for msg in st.session_state.conversation:
     else:
         with st.chat_message("assistant", avatar=HR_icon):
             st.markdown(msg["content"])
-st.title()
-st.title("Your HR assistant", Width="stretch", TextAlignment="midle")
+
+
 prompt = st.chat_input("How can I help you?")
 
 if prompt:

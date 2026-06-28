@@ -1,7 +1,4 @@
-test.ipynb
-no_colab_test.ipynb
 venv
 .env
 chroma_db
-data-preprocessing.ipynb
 __pycache__

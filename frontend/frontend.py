@@ -1,4 +1,4 @@
-# chat_ui.py
+# to run : >streamlit run .\frontend\frontend.py  
 import os
 
 import requests
@@ -36,13 +36,13 @@ def get_assistant_answer() -> str:
 
 @st.cache_data
 def load_icon():
-    file_path = "src/img/logo.png"
+    file_path = "img/logo.png"
     return Image.open(file_path)
 
 
 @st.cache_data
 def load_banner():
-    file_path = "src/img/logo.png"
+    file_path = "img/logo.png"
     return Image.open(file_path)
 
 

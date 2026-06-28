@@ -25,8 +25,8 @@ answer_generation_prompt: |
 retrieval_query_prompt: |
   You are a helpful assistant that can generate a retrieval query which can be posed to a RAG database to retrieve relevant sources to help the user.
 
-answer_generation_model: gemini-3.5-flash
-retrieval_query_model: gemini-3.5-flash
+answer_generation_model: gemini-3.1-flash-lite
+retrieval_query_model: gemini-3.1-flash-lite
 top_p: 0.8
 
 knowledge_base:

@@ -3,7 +3,7 @@ from pathlib import Path
 
 from dotenv import load_dotenv
 
-from hr_rag_evaluation.utils import init_logging
+from .utils import init_logging
 
 logger = logging.getLogger(__name__)
 

@@ -89,7 +89,6 @@ class EvaluationSet:
 def generate_qa_pair(doc: Path, model_name: str) -> QAPair:
 
     with open(doc) as f:
-        print(f"DOC: {doc}")
         knowledge_content = f.read()
 
     gemini_qa_generator = GeminiQAGenerator(model_name=model_name)
